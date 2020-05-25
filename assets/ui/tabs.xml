@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vbox style="padding: 5px;spacing:10px;">
+	<style source="../css/tabs.css" />
+	<button id="myButton" text="Click Me!" />
+
+	<tabview>
+		<box text="Tab 1" icon="haxeui-core/styles/default/haxeui_tiny.png">
+			<scrollview>
+			<grid columns="4">
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+			</grid>
+		</scrollview>
+		</box>
+		<box text="Tab 2" icon="haxeui-core/styles/default/haxeui_tiny.png">
+			<scrollview>
+			<grid id="grid2" columns="4">
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+			</grid>
+		</scrollview>
+		</box>
+		<box text="Tab 3" icon="haxeui-core/styles/default/haxeui_tiny.png">
+			<scrollview>
+			<grid id="grid3" columns="4">
+				<button text="Info1" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info2" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info3" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info4" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info5" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info6" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info7" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info8" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info9" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info10" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info11" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info12" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+				<button text="Info13" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info14" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info15" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+				<button text="Info16" onclick="Screen.instance.messageBox(this.text)" icon="haxeui-core/styles/default/dialogs/information.png" />
+
+			</grid>
+		</scrollview>
+		</box>
+	</tabview>
+</vbox>
