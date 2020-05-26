@@ -12,7 +12,7 @@ class Main {
 		Toolkit.init();
 		
 		var tabs:Component = ComponentMacros.buildComponent("assets/ui/tabs.xml");
-		tabs.addChild (new HelloWorldController ().view);
+	
 		Screen.instance.addComponent(tabs);
 
     }
