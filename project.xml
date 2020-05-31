@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <project>
-	
-	<meta title="Adding Text" package="org.openfl.samples.addingtext" version="1.0.0" company="OpenFL" />
-	<app main="Main" path="Export" file="AddingText" />
-	
-	<source path="Source" />
-	
-	<haxelib name="openfl" />
-    <haxelib name="actuate" />
 
-    <haxelib name="haxeui-core" />
-    <haxelib name="haxeui-openfl" />
+	<meta title="HaxeTest" package="org.openfl.samples.haxetest" version="1.0.0" company="OpenFL" />
+	<app main="Main" path="Export" file="HaxeTest" />
+
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+
+	<haxelib name="haxeui-core" />
+	<haxelib name="haxeui-openfl" />
 
 	<assets path="Assets" rename="assets" />
-	
+
 </project>

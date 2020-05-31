@@ -1,7 +1,7 @@
-
-button {
-    width: 100px;
-    height: 60px;
+.bigBtn {
+    width: 90px;
+    height: 50px;
+    margin: 10px;
 }
 
 scrollview {

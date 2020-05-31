@@ -1,0 +1,16 @@
+.bigBtn {
+    width: 90px;
+    height: 50px;
+    margin: 10px;
+}
+
+scrollview {
+    width: 99vw;
+    height: 99vh;
+    padding: 5px;
+}
+
+tabview {
+    padding: 5px;
+    spacing: 10px;
+}
