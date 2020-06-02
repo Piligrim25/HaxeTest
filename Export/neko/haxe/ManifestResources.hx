@@ -101,6 +101,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_roboto_regular_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_roboto_regular_woff extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_roboto_regular_woff2 extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_config_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_css_tabs_css extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_0_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_images_1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
